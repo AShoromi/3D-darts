@@ -1,0 +1,25 @@
+﻿Построение начато 11.11.2017 15:08:43.
+     1>Проект "C:\Users\Алина\Desktop\'Комп граф'\darts\darts\darts.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\darts.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\'Комп граф'\darts\darts\main.cpp"
+         main.cpp
+     1>c:\users\алина\desktop\'комп граф'\darts\darts\main.cpp(20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\алина\desktop\'комп граф'\darts\darts\main.cpp(21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\алина\desktop\'комп граф'\darts\darts\main.cpp(22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\алина\desktop\'комп граф'\darts\darts\main.cpp(67): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Алина\Desktop\'Комп граф'\darts\Debug\darts.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\darts.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Алина\Desktop\'Комп граф'\darts\Debug\darts.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Алина\Desktop\'Комп граф'\darts\Debug\darts.lib" /MACHINE:X86 Debug\main.obj
+         LINK : не найден или не выполнена сборка C:\Users\Алина\Desktop\'Комп граф'\darts\Debug\darts.exe при последней инкрементной компоновке; выполняется полная компоновка
+         darts.vcxproj -> C:\Users\Алина\Desktop\'Комп граф'\darts\Debug\darts.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Алина\Desktop\'Комп граф'\darts\Debug\darts.exe;#1" /manifest Debug\darts.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\darts.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\darts.lastbuildstate".
+     1>Построение проекта "C:\Users\Алина\Desktop\'Комп граф'\darts\darts\darts.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.10
